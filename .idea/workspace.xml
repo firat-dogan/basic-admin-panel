@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="abd9d8c0-3948-41ee-91be-2c0e519b60c3" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/iletisim-bilgileri.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="524">
+              <caret line="85" selection-start-line="85" selection-end-line="85" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ekibimiz.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="50" selection-start-line="50" selection-end-line="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="667">
+              <caret line="50" selection-start-line="50" selection-end-line="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resimler.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="299">
+              <caret line="37" column="24" selection-start-line="37" selection-start-column="24" selection-end-line="37" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/yeteneklerimiz.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="409">
+              <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/inc/nav-admin.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="23">
+              <caret line="1" column="42" selection-start-line="1" selection-start-column="42" selection-end-line="1" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/login.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/sayfalar.html" />
+        <option value="$PROJECT_DIR$/katilimcilar-ekle.html" />
+        <option value="$PROJECT_DIR$/katilimcilar.html" />
+        <option value="$PROJECT_DIR$/assets/js/iea-admin.js" />
+        <option value="$PROJECT_DIR$/proje-ekle.html" />
+        <option value="$PROJECT_DIR$/ekip-kisi-ekle.html" />
+        <option value="$PROJECT_DIR$/yetenek-ekle.html" />
+        <option value="$PROJECT_DIR$/iletisim-bilgileri.html" />
+        <option value="$PROJECT_DIR$/ekibimiz.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/yeteneklerimiz.html" />
+        <option value="$PROJECT_DIR$/resimler.html" />
+        <option value="$PROJECT_DIR$/assets/inc/nav-admin.html" />
+        <option value="$PROJECT_DIR$/login.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="68" />
+    <option name="y" value="191" />
+    <option name="width" value="1936" />
+    <option name="height" value="1066" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="firat-admin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="firat-admin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="firat-admin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="firat-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="firat-admin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="firat-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="inc" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\firat-admin" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="abd9d8c0-3948-41ee-91be-2c0e519b60c3" name="Default Changelist" comment="" />
+      <created>1566585659694</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566585659694</updated>
+      <workItem from="1566585660978" duration="2579000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2579000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973656" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32918552" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/assets/js/turkish.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-419">
+          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="16" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/inc/kat-yan.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/iea-admin.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/inc/nav.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/inc/bilgilendirme.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/inc/footer.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proje-ekle.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1178">
+          <caret line="25" column="28" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ekip-kisi-ekle.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yetenek-ekle.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="37" column="14" selection-start-line="37" selection-start-column="14" selection-end-line="37" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sayfalar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1145">
+          <caret line="53" column="40" selection-start-line="53" selection-start-column="40" selection-end-line="53" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iletisim-bilgileri.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="524">
+          <caret line="85" selection-start-line="85" selection-end-line="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ekibimiz.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="667">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yeteneklerimiz.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="409">
+          <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resimler.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="37" column="24" selection-start-line="37" selection-start-column="24" selection-end-line="37" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/inc/nav-admin.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" column="42" selection-start-line="1" selection-start-column="42" selection-end-line="1" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

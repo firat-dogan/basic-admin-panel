@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'Ubuntu';
+    src: url('ubuntu-r.woff2') format('woff2'),
+         url('ubuntu-r.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'Ubuntu';
+    src: url('ubuntu-m.woff2') format('woff2'),
+         url('ubuntu-m.woff') format('woff');
+    font-weight: Bold;
+    font-style: normal;
+
+}
