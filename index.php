@@ -1,31 +1,5 @@
 <?php
 require("../php/custom.php");
-if(isset($_POST['send']))
-{
-	session_start();
-	$username = $_POST['username'];
-	$password = $_POST['password'];
-	$result = select("Users", "WHERE username = '".$username."' AND password = '".$password."'");
-	$numRows= mysql_num_rows($result);
-	
-	
-function yonlendir() {
-$dondur = '<script type="text/javascript"> window.top.location = "login.php"; </script>';
-echo $dondur;
-}
-
-
-	if($numRows==0)
-	{
-		$_SESSION['login'] = false;
-		yonlendir();
-		
-	}
-	else
-		$_SESSION['login'] = true;
-		
-	
-}
 check();
 $result = select("Projects");
 ?>
